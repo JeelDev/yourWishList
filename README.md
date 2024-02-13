@@ -11,7 +11,7 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 -   Jeel Patel - follow me on 👇
 -   [GitHub](https://github.com/JeelDev)
--   [LinkedIn](linkedin.com/in/jeelpatel-077578259)
+-   [LinkedIn](https://www.linkedin.com/in/jeel-patel-077578259)
 
 
 ## Run Locally
